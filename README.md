@@ -22,8 +22,8 @@ echo " \e[96m\n\n
   Author   : Muhammad Alvin Rifai
   Github   : https://github.com/dz-id
   Telegram : https://t.me/unikers
-  Date     : 26-01-2020
-  Version  : 1.0
+  Date     : 10-01-2022
+  Version  : 2.0
 \e[92m*-------------------------------------------*\e[0m\n
   \e[92m01\e[0m. Spam Otp MyPoin
   \e[92m02\e[0m. Spam Otp ALTBaljai
