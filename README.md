@@ -13,11 +13,11 @@ include("src/version.php");
 include("src/otp.php");
 
 echo " \e[96m\n\n
-   ____    ____                  ____  __
-  / __/___/ __/__  ___ ___ _    / __ \/ /____
- _\ \/___/\ \/ _ \/ _ `/  ' \  / /_/ / __/ _ \
-/___/   /___/ .__/\_,_/_/_/_/  \____/\__/ .__/
-           /_/                         /_/    \e[0m
+   ____                  ____  __
+  / __/__  ___ ___ _    / __ \/ /____
+ |\ \/ _ \/ _ `/  ' \  / /_/ / __/ _
+/___/ .__/\_,_/_/_/_/  \____/\__/ .__/
+   /_/                         /_/    \e[0m
 \e[92m*-------------------------------------------*\e[0m
   Author   : Muhammad Alvin Rifai
   Github   : https://github.com/dz-id
@@ -153,7 +153,7 @@ try {
 			echo "\e[96m[*] \e[0mLooping : ";
 			$loop = trim(fgets(STDIN));
 			if (is_numeric($loop) !==true) {
-				throw new Exception("\e[91m[!]\e[0m Looping woy/limit, begokk!!\n");
+				throw new Exception("\e[91m[!]\e[0m Looping woy/limit, tolol!!\n");
 				exit(0);
 			}
 
@@ -173,7 +173,7 @@ try {
 			echo "\e[96m[*] \e[0mLooping : ";
 			$loop = trim(fgets(STDIN));
 			if (is_numeric($loop) !==true) {
-				throw new Exception("\e[91m[!]\e[0m Looping woy/limit, begokk!!\n");
+				throw new Exception("\e[91m[!]\e[0m Looping woy/limit, tolol!!\n");
 				exit(0);
 			}
 
