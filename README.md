@@ -4,8 +4,8 @@
 * File : s-spamOtp.php
 * Author : Muhammad Alvin Rifai
 * Github : https://github.com/dz-id
-* Date : 26-01-2020
-* Version : 2.0
+* Date : 10-01-2022
+* Version : 3.0
 */
 
 system("clear");
